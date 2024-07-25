@@ -1,1 +1,0 @@
-# beydademirci.github.io
