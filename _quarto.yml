@@ -14,9 +14,9 @@ format:
     page-layout: full
     date-format: "MMMM D, YYYY"
    theme:
-  light: cerulean
-  dark: cyborg
-css: styles.css
+      light: litera
+      dark: solar
+    css: styles.css
 
 execute:
   freeze: auto
