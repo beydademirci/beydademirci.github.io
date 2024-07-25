@@ -1,0 +1,21 @@
+---
+title: ""
+image: images/profile.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://twitter.com/iremmdastan
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/IremDastan
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:iremdastannn@gmail.com
+---
