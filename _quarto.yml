@@ -13,10 +13,10 @@ format:
   html:
     page-layout: full
     date-format: "MMMM D, YYYY"
-    theme:
-      light: litera
-      dark: solar
-    css: styles.css
+   theme:
+  light: cerulean
+  dark: cyborg
+css: styles.css
 
 execute:
   freeze: auto
