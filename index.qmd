@@ -1,0 +1,28 @@
+---
+title: ""
+image: images/profile.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://twitter.com/beydaben
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/beydademirci
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:beydademirci@gmail.com
+    - icon: earmark
+      text: CV
+      href: https://drive.google.com/file/d/1-gSqnnAIbTynizPOXVydAqXPe-ddQr-o/view?usp=sharing
+   - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/beydademirci/?originalSubdomain=tr
+
+---

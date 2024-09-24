@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Beyda Demirci"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+
+format:
+  html:
+    page-layout: full
+    date-format: "MMMM D, YYYY"
+   theme:
+      light: litera
+      dark: solar
+    css: styles.css
+
+execute:
+  freeze: auto
