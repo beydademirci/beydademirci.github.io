@@ -20,7 +20,7 @@ about:
       href: mailto:beydademirci@gmail.com
     - icon: earmark
       text: CV
-      href: https://drive.google.com/file/d/1mQzRVR4Wjflk0Wt9aJN2iHI1VMTjM1x_/view?usp=sharing
+      href: https://drive.google.com/file/d/1raSlmq7b4d_U_Aia9URgappFYfc-djEp/view?usp=drive_link
    - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/beydademirci/?originalSubdomain=tr
